@@ -10,3 +10,5 @@ Aplicar y expandir los fundamentos teóricos adquiridos durante mi formación ac
 * Desarrollo backend y construcción de APIs (C#, Node.js, JS).
 * Modelado y gestión de bases de datos relacionales y NoSQL.
 * Arquitectura de software, redes y control de versiones.
+
+#t
